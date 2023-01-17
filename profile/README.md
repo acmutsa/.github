@@ -14,7 +14,7 @@ Want to learn more about us? Check out some of the resources below:
 - [Portal](https://github.com/UTSA-ACM/Portal) - Membership & database system
 - [RowdyHacks](https://github.com/UTSA-ACM/RowdyHacks23) - The website for RowdyHacks 2023
 - [CodeQuantum](https://github.com/UTSA-ACM/CodeQuantum2022) - The website for CodeQuantum 2022
-- [RowdyDatathon](https://github.com/UTSA-ACM/rowdy-datathon) - The website for Rowdy Datathon 2022
+- [Rowdy Datathon](https://github.com/UTSA-ACM/rowdy-datathon) - The website for Rowdy Datathon 2022
 
 Additionally, check out the cool stuff the folks at our suborg Rowdy Creators are making [here](https://rowdycreators.org/#projects)!
 
