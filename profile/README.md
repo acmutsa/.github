@@ -11,10 +11,11 @@ Want to learn more about us? Check out some of the resources below:
 
 ### 🛠️ Projects
 
-- [Portal](https://github.com/UTSA-ACM/Portal) - Membership & database system
-- [RowdyHacks](https://github.com/UTSA-ACM/RowdyHacks23) - The website for RowdyHacks 2023
-- [CodeQuantum](https://github.com/UTSA-ACM/CodeQuantum2022) - The website for CodeQuantum 2022
-- [Rowdy Datathon](https://github.com/UTSA-ACM/rowdy-datathon) - The website for Rowdy Datathon 2022
+- [HackKit](https://github.com/acmutsa/HackKit) - Membership & database system
+- [Portal](https://github.com/acmutsa/Portal) - Feature-packed hackathon managment software
+- [RowdyHacks](https://github.com/acmutsa/RowdyHacks24) - The website for RowdyHacks 2024
+- [CodeQuantum](https://github.com/acmutsa/CodeQuantum2022) - The website for CodeQuantum 2022
+- [Rowdy Datathon](https://github.com/acmutsa/rowdy-datathon) - The website for Rowdy Datathon 2022
 
 Additionally, check out the cool stuff the folks at our suborg Rowdy Creators are making [here](https://rowdycreators.org/#projects)!
 
