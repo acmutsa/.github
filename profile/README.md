@@ -15,7 +15,7 @@ Want to learn more about us? Check out some of the resources below:
 - [Portal](https://github.com/acmutsa/Portal) - Membership & database system
 - [RowdyHacks](https://github.com/acmutsa/RowdyHacks24) - The website for RowdyHacks 2024
 - [CodeQuantum](https://github.com/acmutsa/CodeQuantum2022) - The website for CodeQuantum 2022
-- [Rowdy Datathon](https://github.com/acmutsa/rowdy-datathon) - The website for Rowdy Datathon 2022
+- [Rowdy Datathon](https://github.com/acmutsa/rowdy-datathon) - The website for Rowdy Datathon 2023
 
 Additionally, check out the cool stuff the folks at our suborg Rowdy Creators are making [here](https://rowdycreators.org/#projects)!
 
