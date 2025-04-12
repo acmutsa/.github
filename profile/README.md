@@ -12,8 +12,8 @@ Want to learn more about us? Check out some of the resources below:
 ### 🛠️ Projects
 
 - [HackKit](https://github.com/acmutsa/HackKit) - Feature-packed hackathon managment software
-- [Portal](https://github.com/acmutsa/Portal) - Membership & database system
-- [RowdyHacks](https://github.com/acmutsa/RowdyHacksX) - The website for RowdyHacks 2025
+- [ClubKit](https://github.com/acmutsa/ClubKit) - Organization membership & managment software
+- [RowdyHacks](https://github.com/acmutsa/RowdyHacksX) - The website for RowdyHacks X
 - [CodeQuantum](https://github.com/acmutsa/CodeQuantum2022) - The website for CodeQuantum 2022
 - [Rowdy Datathon](https://github.com/acmutsa/RowdyDatathon24) - The website for Rowdy Datathon 2024
 
